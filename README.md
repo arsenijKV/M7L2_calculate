@@ -31,3 +31,7 @@ python calculator_program.py
 ## Автор
 
 Kodland
+
+## Для скачивания html отчета
+1. pytest --html=test_report.html
+2. pytest --cov=. --cov-report html
